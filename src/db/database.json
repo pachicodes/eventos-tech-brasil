@@ -1219,6 +1219,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Excel Weekend 10",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA",
               "data": [
                 "20"
