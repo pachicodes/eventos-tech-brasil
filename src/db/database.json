@@ -2,24 +2,8 @@
   "eventos": [
     {
       "ano": 2024,
-      "arquivado": false,
+      "arquivado": true,
       "meses": [
-        {
-          "mes": "janeiro",
-          "arquivado": false,
-          "eventos": [
-            {
-              "nome": "Live: Dicas de carreira para pessoas desenvolvedoras de RPA",
-              "data": [
-                "13"
-              ],
-              "url": "https://www.youtube.com/watch?v=r_n1zam__5g",
-              "cidade": "",
-              "uf": "",
-              "tipo": "online"
-            }
-          ]
-        },
         {
           "mes": "novembro",
           "arquivado": true,
@@ -1159,26 +1143,6 @@
           "arquivado": false,
           "eventos": [
             {
-              "nome": "Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?",
-              "data": [
-                "21"
-              ],
-              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310",
-              "cidade": "",
-              "uf": "",
-              "tipo": "online"
-            },
-            {
-              "nome": "Descrever aplicações e serviços do Microsoft 365",
-              "data": [
-                "20"
-              ],
-              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937",
-              "cidade": "",
-              "uf": "",
-              "tipo": "online"
-            },
-            {
               "nome": "Confraria Web3 - São Paulo",
               "data": [
                 "07"
@@ -1219,11 +1183,41 @@
               "tipo": "online"
             },
             {
+              "nome": "Live: Dicas de carreira para pessoas desenvolvedoras de RPA",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.youtube.com/watch?v=r_n1zam__5g",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Princípios básicos e conceitos de nuvem",
               "data": [
                 "15"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256854",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Descrever aplicações e serviços do Microsoft 365",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310",
               "cidade": "",
               "uf": "",
               "tipo": "online"
@@ -1305,6 +1299,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Excel Weekend 10",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "Hack In Cariri - 2025",
               "data": [
                 "15"
@@ -1341,22 +1345,6 @@
           "arquivado": false,
           "eventos": [
             {
-              "nome": "BSidesRJ - 2025",
-              "data": [
-                "22"
-              ],
-              "url": "https://bsidesrj.com.br/",
-              "cidade": "Rio De Janeiro",
-              "uf": "RJ",
-              "tipo": "presencial"
-            }
-          ]
-        },
-        {
-          "mes": "março",
-          "arquivado": false,
-          "eventos": [
-            {
               "nome": "Hacking Na Web Day - Brasília - 2025",
               "data": [
                 "15"
@@ -1365,13 +1353,17 @@
               "cidade": "Brasília",
               "uf": "DF",
               "tipo": "presencial"
-            }
-          ]
-        },
-        {
-          "mes": "março",
-          "arquivado": false,
-          "eventos": [
+            },
+            {
+              "nome": "Mulher Tech Sim Senhor",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.mulhertechsimsr.com.br/",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
             {
               "nome": "SecOps Summit 2025",
               "data": [
@@ -1382,29 +1374,7 @@
               "cidade": "Porto Alegre",
               "uf": "RS",
               "tipo": "presencial"
-            }
-          ]
-        },
-        {
-          "mes": "março",
-          "arquivado": false,
-          "eventos": [
-            {
-              "nome": "Mulher Tech Sim Senhor",
-              "data": [
-                "15"
-              ],
-              "url": "https://www.mulhertechsimsr.com.br/",
-              "cidade": "João Pessoa",
-              "uf": "PB",
-              "tipo": "presencial"
-            }
-          ]
-        },
-        {
-          "mes": "março",
-          "arquivado": false,
-          "eventos": [
+            },
             {
               "nome": "Data World Xperience 2025 - Explore o futuro dos dados além da IA",
               "data": [
@@ -1414,6 +1384,16 @@
               "url": "https://dwxperience.com.br/",
               "cidade": "Florianópolis",
               "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BSidesRJ - 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://bsidesrj.com.br/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
               "tipo": "presencial"
             }
           ]
