@@ -1732,6 +1732,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Codecon Summit 25",
+              "data": [
+                "18",
+                "19"
+              ],
+              "url": "https://eventos.codecon.dev/codecon-summit-25/",
+              "cidade": "Curitiba",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025",
               "data": [
                 "20",
