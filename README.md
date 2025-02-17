@@ -76,6 +76,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
 - 22: [KCD Rio de Janeiro 2025 (Cloud)](https://community.cncf.io/kcd-brasil/) - _Rio De Janeiro/RJ_ ![presencial]
 - 22: [Internacional Women’s Day Recife 2025](https://www.instagram.com/wtmrecife/) - _Recife/PE_ ![presencial]
+- 22: [Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher](https://www.meetup.com/women-techmakers-curitiba/events/305753276) - _Curitiba/PR_ ![presencial]
 - 26 e 27: [TDC Summit SP](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![presencial]
 - 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - _Florianópolis/SC_ ![presencial]
 <!-- MARÇO:END -->
