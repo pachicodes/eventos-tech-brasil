@@ -78,6 +78,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 22: [Internacional Women’s Day Recife 2025](https://www.instagram.com/wtmrecife/) - _Recife/PE_ ![presencial]
 - 26 e 27: [TDC Summit SP](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![presencial]
 - 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - _Florianópolis/SC_ ![presencial]
+- 29: [Women's Day - Meetup Especial](https://www.meetup.com/pt-br/aws-user-group-brasilia/) - _Brasília/DF_ ![presencial]
 <!-- MARÇO:END -->
 ### Abril
 <!-- ABRIL:START -->

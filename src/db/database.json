@@ -1903,6 +1903,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Women's Day - Meetup Especial",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.meetup.com/pt-br/aws-user-group-brasilia/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
             }
           ]
         },
