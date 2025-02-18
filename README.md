@@ -76,6 +76,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 20: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/306033353) - _São Paulo/SP_ ![presencial]
 - 20 e 21: [Data World Xperience 2025 - Explore o futuro dos dados além da IA](https://dwxperience.com.br/) - _Florianópolis/SC_ ![presencial]
 - 21: [Desenvolvimento de Agentes Inteligentes com AI, C#, RAG, Devprime e Azure OpenAI](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306159218) - _São Paulo/SP_ ![híbrido]
+- 21: [Desenvolvimento de Agentes Inteligentes com AI, C#, RAG e Azure OpenAI](https://developer.microsoft.com/reactor/events/25081/?wt.mc_id=1reg_25081_webpage_reactor) - _São Paulo/SP_ ![híbrido]
 - 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
 - 22: [KCD Rio de Janeiro 2025 (Cloud)](https://community.cncf.io/kcd-brasil/) - _Rio De Janeiro/RJ_ ![presencial]
 - 22: [Internacional Women’s Day Recife 2025](https://www.instagram.com/wtmrecife/) - _Recife/PE_ ![presencial]
