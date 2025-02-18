@@ -58,6 +58,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 20: [Global Power Platform Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866) ![online]
 - 20: [FIAP & PM3 - IA e Dados: estratégias para antecipar clientes e gerar produção](https://www.meetup.com/fiapmeetups/events/306137804) ![online]
 - 21: [Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305650975) ![online]
+- 21: [Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security](https://developer.microsoft.com/reactor/events/24820/?wt.mc_id=1reg_24820_webpage_reactor) - _São Paulo/SP_ ![híbrido]
 - 22: [FortalSec - 2025](https://www.fortalsec.com.br/) - _Fortaleza/CE_ ![presencial]
 - 24, 25, 26 e 27: [Escola de Verão 2025 - Unimontes/IFNMG](https://2025.escoladeverao.com.br/) - _Montes Claros/MG_ ![presencial]
 - 26: [FIAP - Masterclass Tech Forward 2025: inovações que estão moldando o mundo](https://www.meetup.com/fiapmeetups/events/306221222) - _São Paulo/SP_ ![presencial]

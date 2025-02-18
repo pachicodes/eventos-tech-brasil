@@ -1722,6 +1722,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security",
+              "data": [
+                "21"
+              ],
+              "url": "https://developer.microsoft.com/reactor/events/24820/?wt.mc_id=1reg_24820_webpage_reactor",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "FortalSec - 2025",
               "data": [
                 "22"
