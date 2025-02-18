@@ -1771,6 +1771,20 @@
               "tipo": "online"
             },
             {
+              "nome": "DevParaná na Estrada 2025",
+              "data": [
+                "14",
+                "10",
+                "12",
+                "11",
+                "13"
+              ],
+              "url": "https://linktr.ee/developerparana",
+              "cidade": "Paraná",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DP-700: Prepare-se para o dia do exame e Q&A",
               "data": [
                 "12"

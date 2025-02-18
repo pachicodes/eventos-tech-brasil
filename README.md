@@ -65,6 +65,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Março
 <!-- MARÇO:START -->
 - 10: [Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306178578) ![online]
+- 14, 10, 12, 11 e 13: [DevParaná na Estrada 2025](https://linktr.ee/developerparana) - _Paraná/PR_ ![presencial]
 - 12: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761207) ![online]
 - 14: [São Paulo | Global AI Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333) - _São Paulo/SP_ ![presencial]
 - 15: [Hacking Na Web Day - Brasília - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Brasília/DF_ ![presencial]
