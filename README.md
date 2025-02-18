@@ -71,6 +71,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 15: [Mulher Tech Sim Senhor](https://www.mulhertechsimsr.com.br/) - _João Pessoa/PB_ ![presencial]
 - 15: [DevOps Days Goiânia 2025](https://devopsdays.org/events/2025-goiania/welcome/) - _Goiânia/GO_ ![presencial]
 - 15: [Mulheres e Inteligência Artificial](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306226593) ![online]
+- 15: [Mulheres e Inteligência Artificial](https://aka.ms/meetupmulheresemia) ![online]
 - 18: [FIAP Meetup #140: Estratégias de negócios e IA para as transformações do mercado](https://www.meetup.com/fiapmeetups/events/306105463) - _São Paulo/SP_ ![híbrido]
 - 19, 20 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 20: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/306033353) - _São Paulo/SP_ ![presencial]
