@@ -113,6 +113,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- ABRIL:START -->
 - 02, 03, 04 e 05: [Computer on the beach](https://computeronthebeach.com.br/) - _Itajaí/SC_ ![presencial]
 - 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
+- 08: [DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396836) ![online]
 - 08, 09, 10 e 11: [Agile Trends 2025 - Inteligência Artificial: agilidade e transformação](https://agiletrendsbr.com/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)](https://www.educompbrasil.org/simposio/2025/sbc-eb) - _Juiz De Fora/MG_ ![presencial]
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
