@@ -2388,6 +2388,16 @@
               "cidade": "Chapecó",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Tech Hub Conf",
+              "data": [
+                "31"
+              ],
+              "url": "https://techhubjf.org/conf",
+              "cidade": "Juiz De Fora",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },

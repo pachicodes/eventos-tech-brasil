@@ -129,6 +129,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 24: [PGDay Blumenau 2025](https://pgdayblumenau.com.br/) - _Blumenau/SC_ ![presencial]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 - 30 e 31: [PHP Velho Oeste 2025](https://phpvelhoeste.com.br/) - _Chapecó/SC_ ![presencial]
+- 31: [Tech Hub Conf](https://techhubjf.org/conf) - _Juiz De Fora/MG_ ![presencial]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
