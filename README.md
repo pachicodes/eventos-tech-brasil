@@ -117,6 +117,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 09, 10 e 11: [II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)](https://www.educompbrasil.org/simposio/2025/sbc-eb) - _Juiz De Fora/MG_ ![presencial]
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
 - 12: [Hacking Na Web Day - Recife - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Recife/PE_ ![presencial]
+- 14: [DP-700: Data Warehousing no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397019) ![online]
 - 27, 28, 29 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- ABRIL:END -->
 ### Maio
