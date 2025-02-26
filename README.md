@@ -84,6 +84,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 12: [DevPR na Estrada: Curitiba](https://www.sympla.com.br/evento/devpr-na-estrada-curitiba/2830491) - _Curitiba/PR_ ![presencial]
 - 12: [DevPR na Estrada: Maringá](https://www.sympla.com.br/evento/devpr-na-estrada-maringa/2830417) - _Maringá/PR_ ![presencial]
 - 12: [DevPR na Estrada: Cianorte](https://www.sympla.com.br/evento/devpr-na-estrada-cianorte/2830574) - _Cianorte/PR_ ![presencial]
+- 12: [FinOps Foundation](https://events.finops.org/event/sao-paulo-finops-meetup-mar/) - _São Paulo/SP_ ![presencial]
 - 13: [DevPR na Estrada: Umuarama](https://www.sympla.com.br/evento/devpr-na-estrada-umuarama/2830573) - _Umuarama/PR_ ![presencial]
 - 13: [DevPR na Estrada: Ponta Grossa](https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493) - _Ponta Grossa/PR_ ![presencial]
 - 13: [DevPR na Estrada: Londrina](https://www.sympla.com.br/evento/devpr-na-estrada-gdg-londrina-meetup-londrina/2830481) - _Londrina/PR_ ![presencial]

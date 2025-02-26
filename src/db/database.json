@@ -1961,6 +1961,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "FinOps Foundation",
+              "data": [
+                "12"
+              ],
+              "url": "https://events.finops.org/event/sao-paulo-finops-meetup-mar/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevPR na Estrada: Umuarama",
               "data": [
                 "13"
