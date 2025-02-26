@@ -1831,6 +1831,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Azure Talks - Back-End - APIs, Serverless, dicas, problemas comuns",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/azure-talks/events/306334078",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service",
               "data": [
                 "10"
