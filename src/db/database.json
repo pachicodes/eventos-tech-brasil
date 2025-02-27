@@ -1813,6 +1813,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Flutter + Test: Como grandes empresas testam seus apps",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/fluttercwb/events/306033204",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         },
@@ -2232,6 +2242,26 @@
               "cidade": "Joinville",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396836",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "DP-700: Introdução à engenharia de dados no Microsoft Fabric",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396703",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks",
